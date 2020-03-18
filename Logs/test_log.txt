@@ -1,0 +1,1078 @@
+2020/18/03 21:54:43 PM - INFO - 正在定位元素信息：定位方式->name,value值->CityName
+2020/18/03 21:54:43 PM - DEBUG - POST http://127.0.0.1:50291/session/b98af291b1027a83d7cbf6c275cde825/element {"using": "css selector", "value": "[name=\"CityName\"]"}
+2020/18/03 21:54:43 PM - DEBUG - http://127.0.0.1:50291 "POST /session/b98af291b1027a83d7cbf6c275cde825/element HTTP/1.1" 200 88
+2020/18/03 21:54:43 PM - DEBUG - Finished Request
+2020/18/03 21:54:43 PM - DEBUG - POST http://127.0.0.1:50291/session/b98af291b1027a83d7cbf6c275cde825/element/b9f2e86d-d5b2-4071-ae2d-0eddfce38841/value {"text": "\u6210\u90fd", "value": ["\u6210", "\u90fd"], "id": "b9f2e86d-d5b2-4071-ae2d-0eddfce38841"}
+2020/18/03 21:54:43 PM - DEBUG - http://127.0.0.1:50291 "POST /session/b98af291b1027a83d7cbf6c275cde825/element/b9f2e86d-d5b2-4071-ae2d-0eddfce38841/value HTTP/1.1" 200 14
+2020/18/03 21:54:43 PM - DEBUG - Finished Request
+2020/18/03 22:00:25 PM - INFO - 正在定位元素信息：定位方式->name,value值->CityName
+2020/18/03 22:00:25 PM - DEBUG - POST http://127.0.0.1:50906/session/36ef80be8e323910f3d22bcfb6f82d85/element {"using": "css selector", "value": "[name=\"CityName\"]"}
+2020/18/03 22:00:25 PM - DEBUG - http://127.0.0.1:50906 "POST /session/36ef80be8e323910f3d22bcfb6f82d85/element HTTP/1.1" 200 88
+2020/18/03 22:00:25 PM - DEBUG - Finished Request
+2020/18/03 22:00:25 PM - DEBUG - POST http://127.0.0.1:50906/session/36ef80be8e323910f3d22bcfb6f82d85/element/11ecad61-1e0c-4a02-be8c-e45895fd8711/value {"text": "\u6210\u90fd", "value": ["\u6210", "\u90fd"], "id": "11ecad61-1e0c-4a02-be8c-e45895fd8711"}
+2020/18/03 22:00:25 PM - DEBUG - http://127.0.0.1:50906 "POST /session/36ef80be8e323910f3d22bcfb6f82d85/element/11ecad61-1e0c-4a02-be8c-e45895fd8711/value HTTP/1.1" 200 14
+2020/18/03 22:00:25 PM - DEBUG - Finished Request
+2020/18/03 22:05:44 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 22:05:44 PM - DEBUG - POST http://127.0.0.1:51474/session/7f8c87dd26f368c20252cf9f42771021/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 22:05:44 PM - DEBUG - http://127.0.0.1:51474 "POST /session/7f8c87dd26f368c20252cf9f42771021/element HTTP/1.1" 200 88
+2020/18/03 22:05:44 PM - DEBUG - Finished Request
+2020/18/03 22:05:44 PM - DEBUG - POST http://127.0.0.1:51474/session/7f8c87dd26f368c20252cf9f42771021/element/45f81b44-d9e8-49a7-b932-7fc96c662086/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "45f81b44-d9e8-49a7-b932-7fc96c662086"}
+2020/18/03 22:05:44 PM - DEBUG - http://127.0.0.1:51474 "POST /session/7f8c87dd26f368c20252cf9f42771021/element/45f81b44-d9e8-49a7-b932-7fc96c662086/value HTTP/1.1" 200 14
+2020/18/03 22:05:44 PM - DEBUG - Finished Request
+2020/18/03 22:05:46 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 22:05:46 PM - DEBUG - POST http://127.0.0.1:51474/session/7f8c87dd26f368c20252cf9f42771021/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 22:05:46 PM - DEBUG - http://127.0.0.1:51474 "POST /session/7f8c87dd26f368c20252cf9f42771021/element HTTP/1.1" 200 88
+2020/18/03 22:05:46 PM - DEBUG - Finished Request
+2020/18/03 22:05:46 PM - DEBUG - POST http://127.0.0.1:51474/session/7f8c87dd26f368c20252cf9f42771021/element/e486219a-febe-4242-97c9-fdcd40081486/click {"id": "e486219a-febe-4242-97c9-fdcd40081486"}
+2020/18/03 22:05:46 PM - DEBUG - http://127.0.0.1:51474 "POST /session/7f8c87dd26f368c20252cf9f42771021/element/e486219a-febe-4242-97c9-fdcd40081486/click HTTP/1.1" 200 14
+2020/18/03 22:05:46 PM - DEBUG - Finished Request
+2020/18/03 22:05:46 PM - DEBUG - DELETE http://127.0.0.1:51474/session/7f8c87dd26f368c20252cf9f42771021/window {}
+2020/18/03 22:05:46 PM - DEBUG - http://127.0.0.1:51474 "DELETE /session/7f8c87dd26f368c20252cf9f42771021/window HTTP/1.1" 200 55
+2020/18/03 22:05:46 PM - DEBUG - Finished Request
+2020/18/03 22:05:46 PM - DEBUG - DELETE http://127.0.0.1:51474/session/7f8c87dd26f368c20252cf9f42771021 {}
+2020/18/03 22:05:46 PM - DEBUG - http://127.0.0.1:51474 "DELETE /session/7f8c87dd26f368c20252cf9f42771021 HTTP/1.1" 200 14
+2020/18/03 22:05:46 PM - DEBUG - Finished Request
+2020/18/03 22:41:28 PM - INFO - 正在定位元素信息：定位方式->class name,value值->s_tab_current
+2020/18/03 22:41:28 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:28 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:28 PM - DEBUG - Finished Request
+2020/18/03 22:41:29 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:29 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:29 PM - DEBUG - Finished Request
+2020/18/03 22:41:29 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:29 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:29 PM - DEBUG - Finished Request
+2020/18/03 22:41:30 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:30 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:30 PM - DEBUG - Finished Request
+2020/18/03 22:41:30 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:30 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:30 PM - DEBUG - Finished Request
+2020/18/03 22:41:31 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:31 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:31 PM - DEBUG - Finished Request
+2020/18/03 22:41:31 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:31 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:31 PM - DEBUG - Finished Request
+2020/18/03 22:41:32 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:32 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:32 PM - DEBUG - Finished Request
+2020/18/03 22:41:32 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:32 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:32 PM - DEBUG - Finished Request
+2020/18/03 22:41:33 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:33 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:33 PM - DEBUG - Finished Request
+2020/18/03 22:41:33 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:33 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:33 PM - DEBUG - Finished Request
+2020/18/03 22:41:34 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:34 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:34 PM - DEBUG - Finished Request
+2020/18/03 22:41:34 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:34 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:34 PM - DEBUG - Finished Request
+2020/18/03 22:41:35 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:35 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:35 PM - DEBUG - Finished Request
+2020/18/03 22:41:35 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:35 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:35 PM - DEBUG - Finished Request
+2020/18/03 22:41:36 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:36 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:36 PM - DEBUG - Finished Request
+2020/18/03 22:41:36 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:36 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:36 PM - DEBUG - Finished Request
+2020/18/03 22:41:37 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:37 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:37 PM - DEBUG - Finished Request
+2020/18/03 22:41:37 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:37 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:37 PM - DEBUG - Finished Request
+2020/18/03 22:41:38 PM - DEBUG - POST http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/element {"using": "css selector", "value": ".s_tab_current"}
+2020/18/03 22:41:38 PM - DEBUG - http://127.0.0.1:55369 "POST /session/82e5ca389c05173db48a9e59dee6746b/element HTTP/1.1" 404 1080
+2020/18/03 22:41:38 PM - DEBUG - Finished Request
+2020/18/03 22:41:38 PM - DEBUG - DELETE http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b/window {}
+2020/18/03 22:41:38 PM - DEBUG - http://127.0.0.1:55369 "DELETE /session/82e5ca389c05173db48a9e59dee6746b/window HTTP/1.1" 200 12
+2020/18/03 22:41:38 PM - DEBUG - Finished Request
+2020/18/03 22:41:38 PM - DEBUG - DELETE http://127.0.0.1:55369/session/82e5ca389c05173db48a9e59dee6746b {}
+2020/18/03 22:41:38 PM - DEBUG - http://127.0.0.1:55369 "DELETE /session/82e5ca389c05173db48a9e59dee6746b HTTP/1.1" 200 14
+2020/18/03 22:41:38 PM - DEBUG - Finished Request
+2020/18/03 22:41:41 PM - DEBUG - POST http://127.0.0.1:55439/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 22:41:41 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55439
+2020/18/03 22:41:45 PM - DEBUG - http://127.0.0.1:55439 "POST /session HTTP/1.1" 200 681
+2020/18/03 22:41:45 PM - DEBUG - Finished Request
+2020/18/03 22:41:45 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/url {"url": "https://www.ctrip.com"}
+2020/18/03 22:41:47 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/url HTTP/1.1" 200 14
+2020/18/03 22:41:47 PM - DEBUG - Finished Request
+2020/18/03 22:41:47 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 22:41:47 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 22:41:47 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/element HTTP/1.1" 200 88
+2020/18/03 22:41:47 PM - DEBUG - Finished Request
+2020/18/03 22:41:47 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/element/47a895a9-b0f9-4f11-ad26-0c967f25b107/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "47a895a9-b0f9-4f11-ad26-0c967f25b107"}
+2020/18/03 22:41:47 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/element/47a895a9-b0f9-4f11-ad26-0c967f25b107/value HTTP/1.1" 200 14
+2020/18/03 22:41:47 PM - DEBUG - Finished Request
+2020/18/03 22:41:49 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 22:41:49 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 22:41:49 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/element HTTP/1.1" 200 88
+2020/18/03 22:41:49 PM - DEBUG - Finished Request
+2020/18/03 22:41:49 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/element/285d1b02-2596-41e8-ac3c-cd29c3afd3e6/click {"id": "285d1b02-2596-41e8-ac3c-cd29c3afd3e6"}
+2020/18/03 22:41:49 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/element/285d1b02-2596-41e8-ac3c-cd29c3afd3e6/click HTTP/1.1" 200 14
+2020/18/03 22:41:49 PM - DEBUG - Finished Request
+2020/18/03 22:41:49 PM - DEBUG - GET http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/window/handles {}
+2020/18/03 22:41:49 PM - DEBUG - http://127.0.0.1:55439 "GET /session/983cad905d4443b4bdf82d1b982f42c0/window/handles HTTP/1.1" 200 99
+2020/18/03 22:41:49 PM - DEBUG - Finished Request
+2020/18/03 22:41:49 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/window {"handle": "CDwindow-975AC96348EBA376422ACF761888F818"}
+2020/18/03 22:41:49 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/window HTTP/1.1" 200 14
+2020/18/03 22:41:49 PM - DEBUG - Finished Request
+2020/18/03 22:41:49 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[2]/div[2]/div[1]/div[1]/h1/a
+2020/18/03 22:41:49 PM - DEBUG - POST http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/element {"using": "xpath", "value": "/html/body/div[2]/div[2]/div[1]/div[1]/h1/a"}
+2020/18/03 22:41:53 PM - DEBUG - http://127.0.0.1:55439 "POST /session/983cad905d4443b4bdf82d1b982f42c0/element HTTP/1.1" 200 88
+2020/18/03 22:41:53 PM - DEBUG - Finished Request
+2020/18/03 22:41:53 PM - DEBUG - GET http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/element/06556b82-29bf-455d-998e-4365e090e8cf/text {"id": "06556b82-29bf-455d-998e-4365e090e8cf"}
+2020/18/03 22:41:53 PM - DEBUG - http://127.0.0.1:55439 "GET /session/983cad905d4443b4bdf82d1b982f42c0/element/06556b82-29bf-455d-998e-4365e090e8cf/text HTTP/1.1" 200 18
+2020/18/03 22:41:53 PM - DEBUG - Finished Request
+2020/18/03 22:41:53 PM - DEBUG - DELETE http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0/window {}
+2020/18/03 22:41:53 PM - DEBUG - http://127.0.0.1:55439 "DELETE /session/983cad905d4443b4bdf82d1b982f42c0/window HTTP/1.1" 200 55
+2020/18/03 22:41:53 PM - DEBUG - Finished Request
+2020/18/03 22:41:53 PM - DEBUG - DELETE http://127.0.0.1:55439/session/983cad905d4443b4bdf82d1b982f42c0 {}
+2020/18/03 22:41:53 PM - DEBUG - http://127.0.0.1:55439 "DELETE /session/983cad905d4443b4bdf82d1b982f42c0 HTTP/1.1" 200 14
+2020/18/03 22:41:53 PM - DEBUG - Finished Request
+2020/18/03 22:45:48 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='searchBoxUl']/li[2]/b
+2020/18/03 22:45:48 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:48 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:48 PM - DEBUG - Finished Request
+2020/18/03 22:45:48 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:48 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:48 PM - DEBUG - Finished Request
+2020/18/03 22:45:49 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:49 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:49 PM - DEBUG - Finished Request
+2020/18/03 22:45:49 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:49 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:49 PM - DEBUG - Finished Request
+2020/18/03 22:45:50 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:50 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:50 PM - DEBUG - Finished Request
+2020/18/03 22:45:50 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:50 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:50 PM - DEBUG - Finished Request
+2020/18/03 22:45:51 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:51 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:51 PM - DEBUG - Finished Request
+2020/18/03 22:45:51 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:51 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:51 PM - DEBUG - Finished Request
+2020/18/03 22:45:52 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:52 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:52 PM - DEBUG - Finished Request
+2020/18/03 22:45:52 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:52 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:52 PM - DEBUG - Finished Request
+2020/18/03 22:45:53 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:53 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:53 PM - DEBUG - Finished Request
+2020/18/03 22:45:54 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:54 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:54 PM - DEBUG - Finished Request
+2020/18/03 22:45:54 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:54 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:54 PM - DEBUG - Finished Request
+2020/18/03 22:45:55 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:55 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:55 PM - DEBUG - Finished Request
+2020/18/03 22:45:55 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:55 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:55 PM - DEBUG - Finished Request
+2020/18/03 22:45:56 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:56 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:56 PM - DEBUG - Finished Request
+2020/18/03 22:45:56 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:56 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:56 PM - DEBUG - Finished Request
+2020/18/03 22:45:57 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:57 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:57 PM - DEBUG - Finished Request
+2020/18/03 22:45:57 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:57 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:57 PM - DEBUG - Finished Request
+2020/18/03 22:45:58 PM - DEBUG - POST http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:45:58 PM - DEBUG - http://127.0.0.1:55904 "POST /session/c67f5d1bf165ec3d25ba412c3b72115c/element HTTP/1.1" 404 1089
+2020/18/03 22:45:58 PM - DEBUG - Finished Request
+2020/18/03 22:45:58 PM - DEBUG - DELETE http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c/window {}
+2020/18/03 22:45:58 PM - DEBUG - http://127.0.0.1:55904 "DELETE /session/c67f5d1bf165ec3d25ba412c3b72115c/window HTTP/1.1" 200 12
+2020/18/03 22:45:58 PM - DEBUG - Finished Request
+2020/18/03 22:45:58 PM - DEBUG - DELETE http://127.0.0.1:55904/session/c67f5d1bf165ec3d25ba412c3b72115c {}
+2020/18/03 22:45:58 PM - DEBUG - http://127.0.0.1:55904 "DELETE /session/c67f5d1bf165ec3d25ba412c3b72115c HTTP/1.1" 200 14
+2020/18/03 22:45:58 PM - DEBUG - Finished Request
+2020/18/03 22:46:01 PM - DEBUG - POST http://127.0.0.1:55970/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 22:46:01 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55970
+2020/18/03 22:46:05 PM - DEBUG - http://127.0.0.1:55970 "POST /session HTTP/1.1" 200 681
+2020/18/03 22:46:05 PM - DEBUG - Finished Request
+2020/18/03 22:46:05 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/url {"url": "https://www.ctrip.com"}
+2020/18/03 22:46:07 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/url HTTP/1.1" 200 14
+2020/18/03 22:46:07 PM - DEBUG - Finished Request
+2020/18/03 22:46:07 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 22:46:07 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 22:46:07 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/element HTTP/1.1" 200 88
+2020/18/03 22:46:07 PM - DEBUG - Finished Request
+2020/18/03 22:46:07 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/element/1ef81270-b7a5-4de8-9486-d3838146f52a/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "1ef81270-b7a5-4de8-9486-d3838146f52a"}
+2020/18/03 22:46:07 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/element/1ef81270-b7a5-4de8-9486-d3838146f52a/value HTTP/1.1" 200 14
+2020/18/03 22:46:07 PM - DEBUG - Finished Request
+2020/18/03 22:46:09 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 22:46:09 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 22:46:09 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/element HTTP/1.1" 200 88
+2020/18/03 22:46:09 PM - DEBUG - Finished Request
+2020/18/03 22:46:09 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/element/47c3d54e-ba9f-4442-bde1-205891ac51e9/click {"id": "47c3d54e-ba9f-4442-bde1-205891ac51e9"}
+2020/18/03 22:46:13 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/element/47c3d54e-ba9f-4442-bde1-205891ac51e9/click HTTP/1.1" 200 14
+2020/18/03 22:46:13 PM - DEBUG - Finished Request
+2020/18/03 22:46:13 PM - DEBUG - GET http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/window/handles {}
+2020/18/03 22:46:13 PM - DEBUG - http://127.0.0.1:55970 "GET /session/27543791882810d7e19bf1d90666d644/window/handles HTTP/1.1" 200 99
+2020/18/03 22:46:13 PM - DEBUG - Finished Request
+2020/18/03 22:46:13 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/window {"handle": "CDwindow-86A8EA1DC18F5C66BC099E3B378FE992"}
+2020/18/03 22:46:13 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/window HTTP/1.1" 200 14
+2020/18/03 22:46:13 PM - DEBUG - Finished Request
+2020/18/03 22:46:13 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[2]/div[2]/div[1]/div[1]/h1/a
+2020/18/03 22:46:13 PM - DEBUG - POST http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/element {"using": "xpath", "value": "/html/body/div[2]/div[2]/div[1]/div[1]/h1/a"}
+2020/18/03 22:46:17 PM - DEBUG - http://127.0.0.1:55970 "POST /session/27543791882810d7e19bf1d90666d644/element HTTP/1.1" 200 88
+2020/18/03 22:46:17 PM - DEBUG - Finished Request
+2020/18/03 22:46:17 PM - DEBUG - GET http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/element/3702ebc9-2019-41c7-a13b-571af5127d1c/text {"id": "3702ebc9-2019-41c7-a13b-571af5127d1c"}
+2020/18/03 22:46:17 PM - DEBUG - http://127.0.0.1:55970 "GET /session/27543791882810d7e19bf1d90666d644/element/3702ebc9-2019-41c7-a13b-571af5127d1c/text HTTP/1.1" 200 18
+2020/18/03 22:46:17 PM - DEBUG - Finished Request
+2020/18/03 22:46:17 PM - DEBUG - DELETE http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644/window {}
+2020/18/03 22:46:17 PM - DEBUG - http://127.0.0.1:55970 "DELETE /session/27543791882810d7e19bf1d90666d644/window HTTP/1.1" 200 55
+2020/18/03 22:46:17 PM - DEBUG - Finished Request
+2020/18/03 22:46:17 PM - DEBUG - DELETE http://127.0.0.1:55970/session/27543791882810d7e19bf1d90666d644 {}
+2020/18/03 22:46:17 PM - DEBUG - http://127.0.0.1:55970 "DELETE /session/27543791882810d7e19bf1d90666d644 HTTP/1.1" 200 14
+2020/18/03 22:46:17 PM - DEBUG - Finished Request
+2020/18/03 22:46:43 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='searchBoxUl']/li[2]/b
+2020/18/03 22:46:43 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:44 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:44 PM - DEBUG - Finished Request
+2020/18/03 22:46:44 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:44 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:44 PM - DEBUG - Finished Request
+2020/18/03 22:46:45 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:45 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:45 PM - DEBUG - Finished Request
+2020/18/03 22:46:45 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:45 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:45 PM - DEBUG - Finished Request
+2020/18/03 22:46:46 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:46 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:46 PM - DEBUG - Finished Request
+2020/18/03 22:46:46 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:46 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:46 PM - DEBUG - Finished Request
+2020/18/03 22:46:47 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:47 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:47 PM - DEBUG - Finished Request
+2020/18/03 22:46:47 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:47 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:47 PM - DEBUG - Finished Request
+2020/18/03 22:46:48 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:48 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:48 PM - DEBUG - Finished Request
+2020/18/03 22:46:48 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:48 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:48 PM - DEBUG - Finished Request
+2020/18/03 22:46:49 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:49 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:49 PM - DEBUG - Finished Request
+2020/18/03 22:46:49 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:49 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:49 PM - DEBUG - Finished Request
+2020/18/03 22:46:50 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:50 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:50 PM - DEBUG - Finished Request
+2020/18/03 22:46:50 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:50 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:50 PM - DEBUG - Finished Request
+2020/18/03 22:46:51 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:51 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:51 PM - DEBUG - Finished Request
+2020/18/03 22:46:51 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:51 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:51 PM - DEBUG - Finished Request
+2020/18/03 22:46:52 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:52 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:52 PM - DEBUG - Finished Request
+2020/18/03 22:46:52 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:52 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:52 PM - DEBUG - Finished Request
+2020/18/03 22:46:53 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:53 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:53 PM - DEBUG - Finished Request
+2020/18/03 22:46:53 PM - DEBUG - POST http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/element {"using": "xpath", "value": "//*[@id='searchBoxUl']/li[2]/b"}
+2020/18/03 22:46:53 PM - DEBUG - http://127.0.0.1:56125 "POST /session/59d796955f5f88f538824caf4a8758a6/element HTTP/1.1" 404 1089
+2020/18/03 22:46:53 PM - DEBUG - Finished Request
+2020/18/03 22:46:54 PM - DEBUG - DELETE http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6/window {}
+2020/18/03 22:46:54 PM - DEBUG - http://127.0.0.1:56125 "DELETE /session/59d796955f5f88f538824caf4a8758a6/window HTTP/1.1" 200 12
+2020/18/03 22:46:54 PM - DEBUG - Finished Request
+2020/18/03 22:46:54 PM - DEBUG - DELETE http://127.0.0.1:56125/session/59d796955f5f88f538824caf4a8758a6 {}
+2020/18/03 22:46:54 PM - DEBUG - http://127.0.0.1:56125 "DELETE /session/59d796955f5f88f538824caf4a8758a6 HTTP/1.1" 200 14
+2020/18/03 22:46:54 PM - DEBUG - Finished Request
+2020/18/03 23:23:52 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:23:52 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:52 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:52 PM - DEBUG - Finished Request
+2020/18/03 23:23:53 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:53 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:53 PM - DEBUG - Finished Request
+2020/18/03 23:23:53 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:53 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:53 PM - DEBUG - Finished Request
+2020/18/03 23:23:54 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:54 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:54 PM - DEBUG - Finished Request
+2020/18/03 23:23:54 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:54 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:54 PM - DEBUG - Finished Request
+2020/18/03 23:23:55 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:55 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:55 PM - DEBUG - Finished Request
+2020/18/03 23:23:55 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:55 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:55 PM - DEBUG - Finished Request
+2020/18/03 23:23:56 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:56 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:56 PM - DEBUG - Finished Request
+2020/18/03 23:23:56 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:56 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:56 PM - DEBUG - Finished Request
+2020/18/03 23:23:57 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:57 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:57 PM - DEBUG - Finished Request
+2020/18/03 23:23:57 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:57 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:57 PM - DEBUG - Finished Request
+2020/18/03 23:23:58 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:58 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:58 PM - DEBUG - Finished Request
+2020/18/03 23:23:58 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:58 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:58 PM - DEBUG - Finished Request
+2020/18/03 23:23:59 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:59 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:59 PM - DEBUG - Finished Request
+2020/18/03 23:23:59 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:23:59 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:23:59 PM - DEBUG - Finished Request
+2020/18/03 23:24:00 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:00 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:24:00 PM - DEBUG - Finished Request
+2020/18/03 23:24:00 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:00 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:24:00 PM - DEBUG - Finished Request
+2020/18/03 23:24:01 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:01 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:24:01 PM - DEBUG - Finished Request
+2020/18/03 23:24:01 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:01 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:24:01 PM - DEBUG - Finished Request
+2020/18/03 23:24:02 PM - DEBUG - POST http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:02 PM - DEBUG - http://127.0.0.1:61185 "POST /session/92d8056c541fe3728db2fd516bc96e33/element HTTP/1.1" 404 1088
+2020/18/03 23:24:02 PM - DEBUG - Finished Request
+2020/18/03 23:24:02 PM - DEBUG - DELETE http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33/window {}
+2020/18/03 23:24:02 PM - DEBUG - http://127.0.0.1:61185 "DELETE /session/92d8056c541fe3728db2fd516bc96e33/window HTTP/1.1" 200 12
+2020/18/03 23:24:02 PM - DEBUG - Finished Request
+2020/18/03 23:24:02 PM - DEBUG - DELETE http://127.0.0.1:61185/session/92d8056c541fe3728db2fd516bc96e33 {}
+2020/18/03 23:24:02 PM - DEBUG - http://127.0.0.1:61185 "DELETE /session/92d8056c541fe3728db2fd516bc96e33 HTTP/1.1" 200 14
+2020/18/03 23:24:02 PM - DEBUG - Finished Request
+2020/18/03 23:24:05 PM - DEBUG - POST http://127.0.0.1:61260/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:24:05 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61260
+2020/18/03 23:24:09 PM - DEBUG - http://127.0.0.1:61260 "POST /session HTTP/1.1" 200 681
+2020/18/03 23:24:09 PM - DEBUG - Finished Request
+2020/18/03 23:24:09 PM - DEBUG - POST http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:24:11 PM - DEBUG - http://127.0.0.1:61260 "POST /session/889e8b9484a7e2962428fe10fc568b57/url HTTP/1.1" 200 14
+2020/18/03 23:24:11 PM - DEBUG - Finished Request
+2020/18/03 23:24:11 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:24:11 PM - DEBUG - POST http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:24:11 PM - DEBUG - http://127.0.0.1:61260 "POST /session/889e8b9484a7e2962428fe10fc568b57/element HTTP/1.1" 200 88
+2020/18/03 23:24:11 PM - DEBUG - Finished Request
+2020/18/03 23:24:11 PM - DEBUG - POST http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/element/db6c849c-162a-4be0-bdc2-680c34583748/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "db6c849c-162a-4be0-bdc2-680c34583748"}
+2020/18/03 23:24:11 PM - DEBUG - http://127.0.0.1:61260 "POST /session/889e8b9484a7e2962428fe10fc568b57/element/db6c849c-162a-4be0-bdc2-680c34583748/value HTTP/1.1" 200 14
+2020/18/03 23:24:11 PM - DEBUG - Finished Request
+2020/18/03 23:24:13 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:24:13 PM - DEBUG - POST http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:24:13 PM - DEBUG - http://127.0.0.1:61260 "POST /session/889e8b9484a7e2962428fe10fc568b57/element HTTP/1.1" 200 88
+2020/18/03 23:24:13 PM - DEBUG - Finished Request
+2020/18/03 23:24:13 PM - DEBUG - POST http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/element/7f3faec6-eac6-43eb-8b2b-a2da7e5e60e3/click {"id": "7f3faec6-eac6-43eb-8b2b-a2da7e5e60e3"}
+2020/18/03 23:24:13 PM - DEBUG - http://127.0.0.1:61260 "POST /session/889e8b9484a7e2962428fe10fc568b57/element/7f3faec6-eac6-43eb-8b2b-a2da7e5e60e3/click HTTP/1.1" 200 14
+2020/18/03 23:24:13 PM - DEBUG - Finished Request
+2020/18/03 23:24:13 PM - DEBUG - GET http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/window/handles {}
+2020/18/03 23:24:13 PM - DEBUG - http://127.0.0.1:61260 "GET /session/889e8b9484a7e2962428fe10fc568b57/window/handles HTTP/1.1" 200 55
+2020/18/03 23:24:13 PM - DEBUG - Finished Request
+2020/18/03 23:24:13 PM - DEBUG - DELETE http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57/window {}
+2020/18/03 23:24:17 PM - DEBUG - http://127.0.0.1:61260 "DELETE /session/889e8b9484a7e2962428fe10fc568b57/window HTTP/1.1" 200 14
+2020/18/03 23:24:17 PM - DEBUG - Finished Request
+2020/18/03 23:24:17 PM - DEBUG - DELETE http://127.0.0.1:61260/session/889e8b9484a7e2962428fe10fc568b57 {}
+2020/18/03 23:24:17 PM - DEBUG - http://127.0.0.1:61260 "DELETE /session/889e8b9484a7e2962428fe10fc568b57 HTTP/1.1" 200 14
+2020/18/03 23:24:17 PM - DEBUG - Finished Request
+2020/18/03 23:24:44 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:24:44 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:44 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 200 88
+2020/18/03 23:24:44 PM - DEBUG - Finished Request
+2020/18/03 23:24:44 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element/2a47637a-4043-406b-a650-745392c78d26/click {"id": "2a47637a-4043-406b-a650-745392c78d26"}
+2020/18/03 23:24:45 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element/2a47637a-4043-406b-a650-745392c78d26/click HTTP/1.1" 200 14
+2020/18/03 23:24:45 PM - DEBUG - Finished Request
+2020/18/03 23:24:45 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:24:45 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:45 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:45 PM - DEBUG - Finished Request
+2020/18/03 23:24:45 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:45 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:45 PM - DEBUG - Finished Request
+2020/18/03 23:24:46 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:46 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:46 PM - DEBUG - Finished Request
+2020/18/03 23:24:46 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:46 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:46 PM - DEBUG - Finished Request
+2020/18/03 23:24:47 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:47 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:47 PM - DEBUG - Finished Request
+2020/18/03 23:24:47 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:47 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:47 PM - DEBUG - Finished Request
+2020/18/03 23:24:48 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:48 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:48 PM - DEBUG - Finished Request
+2020/18/03 23:24:48 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:48 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:48 PM - DEBUG - Finished Request
+2020/18/03 23:24:49 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:49 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:49 PM - DEBUG - Finished Request
+2020/18/03 23:24:49 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:49 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:49 PM - DEBUG - Finished Request
+2020/18/03 23:24:50 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:50 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:50 PM - DEBUG - Finished Request
+2020/18/03 23:24:50 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:50 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:50 PM - DEBUG - Finished Request
+2020/18/03 23:24:51 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:51 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:51 PM - DEBUG - Finished Request
+2020/18/03 23:24:51 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:51 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:51 PM - DEBUG - Finished Request
+2020/18/03 23:24:52 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:52 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:52 PM - DEBUG - Finished Request
+2020/18/03 23:24:52 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:52 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:52 PM - DEBUG - Finished Request
+2020/18/03 23:24:53 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:53 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:53 PM - DEBUG - Finished Request
+2020/18/03 23:24:53 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:53 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:53 PM - DEBUG - Finished Request
+2020/18/03 23:24:54 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:54 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:54 PM - DEBUG - Finished Request
+2020/18/03 23:24:54 PM - DEBUG - POST http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:24:54 PM - DEBUG - http://127.0.0.1:61375 "POST /session/11c58644880f26363b47d565f5de82e7/element HTTP/1.1" 404 1088
+2020/18/03 23:24:54 PM - DEBUG - Finished Request
+2020/18/03 23:24:55 PM - DEBUG - DELETE http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7/window {}
+2020/18/03 23:24:59 PM - DEBUG - http://127.0.0.1:61375 "DELETE /session/11c58644880f26363b47d565f5de82e7/window HTTP/1.1" 200 14
+2020/18/03 23:24:59 PM - DEBUG - Finished Request
+2020/18/03 23:24:59 PM - DEBUG - DELETE http://127.0.0.1:61375/session/11c58644880f26363b47d565f5de82e7 {}
+2020/18/03 23:24:59 PM - DEBUG - http://127.0.0.1:61375 "DELETE /session/11c58644880f26363b47d565f5de82e7 HTTP/1.1" 200 14
+2020/18/03 23:24:59 PM - DEBUG - Finished Request
+2020/18/03 23:25:02 PM - DEBUG - POST http://127.0.0.1:61497/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:25:02 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61497
+2020/18/03 23:25:06 PM - DEBUG - http://127.0.0.1:61497 "POST /session HTTP/1.1" 200 681
+2020/18/03 23:25:06 PM - DEBUG - Finished Request
+2020/18/03 23:25:06 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:25:08 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/url HTTP/1.1" 200 14
+2020/18/03 23:25:08 PM - DEBUG - Finished Request
+2020/18/03 23:25:08 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:25:08 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:25:08 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/element HTTP/1.1" 200 88
+2020/18/03 23:25:08 PM - DEBUG - Finished Request
+2020/18/03 23:25:08 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/element/39a4075c-4354-4262-bf34-5b1613013987/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "39a4075c-4354-4262-bf34-5b1613013987"}
+2020/18/03 23:25:08 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/element/39a4075c-4354-4262-bf34-5b1613013987/value HTTP/1.1" 200 14
+2020/18/03 23:25:08 PM - DEBUG - Finished Request
+2020/18/03 23:25:10 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:25:10 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:25:10 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/element HTTP/1.1" 200 88
+2020/18/03 23:25:10 PM - DEBUG - Finished Request
+2020/18/03 23:25:10 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/element/ab2db265-ac57-4fa7-bbc2-2f67c94757b8/click {"id": "ab2db265-ac57-4fa7-bbc2-2f67c94757b8"}
+2020/18/03 23:25:10 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/element/ab2db265-ac57-4fa7-bbc2-2f67c94757b8/click HTTP/1.1" 200 14
+2020/18/03 23:25:10 PM - DEBUG - Finished Request
+2020/18/03 23:25:10 PM - DEBUG - GET http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/window/handles {}
+2020/18/03 23:25:10 PM - DEBUG - http://127.0.0.1:61497 "GET /session/ad12b34866d37f5dd71b56956887810f/window/handles HTTP/1.1" 200 99
+2020/18/03 23:25:10 PM - DEBUG - Finished Request
+2020/18/03 23:25:10 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/window {"handle": "CDwindow-16A9606C09CE9B9CA40EDCB5446A55B0"}
+2020/18/03 23:25:10 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/window HTTP/1.1" 200 14
+2020/18/03 23:25:10 PM - DEBUG - Finished Request
+2020/18/03 23:25:10 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[2]/div[2]/div[1]/div[1]/h1/a
+2020/18/03 23:25:10 PM - DEBUG - POST http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/element {"using": "xpath", "value": "/html/body/div[2]/div[2]/div[1]/div[1]/h1/a"}
+2020/18/03 23:25:14 PM - DEBUG - http://127.0.0.1:61497 "POST /session/ad12b34866d37f5dd71b56956887810f/element HTTP/1.1" 200 88
+2020/18/03 23:25:14 PM - DEBUG - Finished Request
+2020/18/03 23:25:14 PM - DEBUG - GET http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/element/87343520-efb2-436c-b317-588744c739eb/text {"id": "87343520-efb2-436c-b317-588744c739eb"}
+2020/18/03 23:25:14 PM - DEBUG - http://127.0.0.1:61497 "GET /session/ad12b34866d37f5dd71b56956887810f/element/87343520-efb2-436c-b317-588744c739eb/text HTTP/1.1" 200 18
+2020/18/03 23:25:14 PM - DEBUG - Finished Request
+2020/18/03 23:25:14 PM - DEBUG - DELETE http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f/window {}
+2020/18/03 23:25:14 PM - DEBUG - http://127.0.0.1:61497 "DELETE /session/ad12b34866d37f5dd71b56956887810f/window HTTP/1.1" 200 55
+2020/18/03 23:25:14 PM - DEBUG - Finished Request
+2020/18/03 23:25:14 PM - DEBUG - DELETE http://127.0.0.1:61497/session/ad12b34866d37f5dd71b56956887810f {}
+2020/18/03 23:25:14 PM - DEBUG - http://127.0.0.1:61497 "DELETE /session/ad12b34866d37f5dd71b56956887810f HTTP/1.1" 200 14
+2020/18/03 23:25:14 PM - DEBUG - Finished Request
+2020/18/03 23:26:44 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:26:44 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:44 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 200 88
+2020/18/03 23:26:44 PM - DEBUG - Finished Request
+2020/18/03 23:26:44 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element/5b40aa72-a652-48c5-8079-057597ca3618/click {"id": "5b40aa72-a652-48c5-8079-057597ca3618"}
+2020/18/03 23:26:45 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element/5b40aa72-a652-48c5-8079-057597ca3618/click HTTP/1.1" 200 14
+2020/18/03 23:26:45 PM - DEBUG - Finished Request
+2020/18/03 23:26:45 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:26:45 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:45 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:45 PM - DEBUG - Finished Request
+2020/18/03 23:26:46 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:46 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:46 PM - DEBUG - Finished Request
+2020/18/03 23:26:46 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:46 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:46 PM - DEBUG - Finished Request
+2020/18/03 23:26:47 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:47 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:47 PM - DEBUG - Finished Request
+2020/18/03 23:26:47 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:47 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:47 PM - DEBUG - Finished Request
+2020/18/03 23:26:48 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:48 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:48 PM - DEBUG - Finished Request
+2020/18/03 23:26:48 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:48 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:48 PM - DEBUG - Finished Request
+2020/18/03 23:26:49 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:49 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:49 PM - DEBUG - Finished Request
+2020/18/03 23:26:49 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:49 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:49 PM - DEBUG - Finished Request
+2020/18/03 23:26:50 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:50 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:50 PM - DEBUG - Finished Request
+2020/18/03 23:26:50 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:50 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:50 PM - DEBUG - Finished Request
+2020/18/03 23:26:51 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:51 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:51 PM - DEBUG - Finished Request
+2020/18/03 23:26:51 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:51 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:51 PM - DEBUG - Finished Request
+2020/18/03 23:26:52 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:52 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:52 PM - DEBUG - Finished Request
+2020/18/03 23:26:52 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:52 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:52 PM - DEBUG - Finished Request
+2020/18/03 23:26:53 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:53 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:53 PM - DEBUG - Finished Request
+2020/18/03 23:26:53 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:53 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:53 PM - DEBUG - Finished Request
+2020/18/03 23:26:54 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:54 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:54 PM - DEBUG - Finished Request
+2020/18/03 23:26:54 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:54 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:54 PM - DEBUG - Finished Request
+2020/18/03 23:26:55 PM - DEBUG - POST http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:26:55 PM - DEBUG - http://127.0.0.1:61745 "POST /session/1fd74b9758751b72d2aa1fc476897237/element HTTP/1.1" 404 1088
+2020/18/03 23:26:55 PM - DEBUG - Finished Request
+2020/18/03 23:26:55 PM - DEBUG - DELETE http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237/window {}
+2020/18/03 23:27:00 PM - DEBUG - http://127.0.0.1:61745 "DELETE /session/1fd74b9758751b72d2aa1fc476897237/window HTTP/1.1" 200 14
+2020/18/03 23:27:00 PM - DEBUG - Finished Request
+2020/18/03 23:27:00 PM - DEBUG - DELETE http://127.0.0.1:61745/session/1fd74b9758751b72d2aa1fc476897237 {}
+2020/18/03 23:27:00 PM - DEBUG - http://127.0.0.1:61745 "DELETE /session/1fd74b9758751b72d2aa1fc476897237 HTTP/1.1" 200 14
+2020/18/03 23:27:00 PM - DEBUG - Finished Request
+2020/18/03 23:27:02 PM - DEBUG - POST http://127.0.0.1:61858/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:27:02 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61858
+2020/18/03 23:27:07 PM - DEBUG - http://127.0.0.1:61858 "POST /session HTTP/1.1" 200 681
+2020/18/03 23:27:07 PM - DEBUG - Finished Request
+2020/18/03 23:27:07 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:27:08 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/url HTTP/1.1" 200 14
+2020/18/03 23:27:08 PM - DEBUG - Finished Request
+2020/18/03 23:27:08 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:27:08 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:27:08 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 200 88
+2020/18/03 23:27:08 PM - DEBUG - Finished Request
+2020/18/03 23:27:08 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element/6b0b05e2-4f3f-48e9-acd2-c6bc34511582/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "6b0b05e2-4f3f-48e9-acd2-c6bc34511582"}
+2020/18/03 23:27:08 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element/6b0b05e2-4f3f-48e9-acd2-c6bc34511582/value HTTP/1.1" 200 14
+2020/18/03 23:27:08 PM - DEBUG - Finished Request
+2020/18/03 23:27:10 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:27:10 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:27:10 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 200 88
+2020/18/03 23:27:10 PM - DEBUG - Finished Request
+2020/18/03 23:27:10 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element/fb0b1363-4bfa-4b1f-9709-0f8b6fbedb50/click {"id": "fb0b1363-4bfa-4b1f-9709-0f8b6fbedb50"}
+2020/18/03 23:27:10 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element/fb0b1363-4bfa-4b1f-9709-0f8b6fbedb50/click HTTP/1.1" 200 14
+2020/18/03 23:27:10 PM - DEBUG - Finished Request
+2020/18/03 23:27:10 PM - DEBUG - GET http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/window/handles {}
+2020/18/03 23:27:10 PM - DEBUG - http://127.0.0.1:61858 "GET /session/5e748dbf7112bee7c09696752b071b2d/window/handles HTTP/1.1" 200 99
+2020/18/03 23:27:10 PM - DEBUG - Finished Request
+2020/18/03 23:27:10 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/window {"handle": "CDwindow-94329E893ADD256484617E7FBCE07474"}
+2020/18/03 23:27:10 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/window HTTP/1.1" 200 14
+2020/18/03 23:27:10 PM - DEBUG - Finished Request
+2020/18/03 23:27:10 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label
+2020/18/03 23:27:10 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:14 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:14 PM - DEBUG - Finished Request
+2020/18/03 23:27:15 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:15 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:15 PM - DEBUG - Finished Request
+2020/18/03 23:27:16 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:16 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:16 PM - DEBUG - Finished Request
+2020/18/03 23:27:16 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:16 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:16 PM - DEBUG - Finished Request
+2020/18/03 23:27:17 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:17 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:17 PM - DEBUG - Finished Request
+2020/18/03 23:27:17 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:17 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:17 PM - DEBUG - Finished Request
+2020/18/03 23:27:18 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:18 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:18 PM - DEBUG - Finished Request
+2020/18/03 23:27:18 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:18 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:18 PM - DEBUG - Finished Request
+2020/18/03 23:27:19 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:19 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:19 PM - DEBUG - Finished Request
+2020/18/03 23:27:19 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:19 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:19 PM - DEBUG - Finished Request
+2020/18/03 23:27:20 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:20 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:20 PM - DEBUG - Finished Request
+2020/18/03 23:27:20 PM - DEBUG - POST http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:27:20 PM - DEBUG - http://127.0.0.1:61858 "POST /session/5e748dbf7112bee7c09696752b071b2d/element HTTP/1.1" 404 1127
+2020/18/03 23:27:20 PM - DEBUG - Finished Request
+2020/18/03 23:27:21 PM - DEBUG - DELETE http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d/window {}
+2020/18/03 23:27:21 PM - DEBUG - http://127.0.0.1:61858 "DELETE /session/5e748dbf7112bee7c09696752b071b2d/window HTTP/1.1" 200 55
+2020/18/03 23:27:21 PM - DEBUG - Finished Request
+2020/18/03 23:27:21 PM - DEBUG - DELETE http://127.0.0.1:61858/session/5e748dbf7112bee7c09696752b071b2d {}
+2020/18/03 23:27:21 PM - DEBUG - http://127.0.0.1:61858 "DELETE /session/5e748dbf7112bee7c09696752b071b2d HTTP/1.1" 200 14
+2020/18/03 23:27:21 PM - DEBUG - Finished Request
+2020/18/03 23:29:25 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:29:27 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:27 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 200 88
+2020/18/03 23:29:27 PM - DEBUG - Finished Request
+2020/18/03 23:29:27 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element/e8548218-69d5-4db3-ab8e-3e2467cde0c1/click {"id": "e8548218-69d5-4db3-ab8e-3e2467cde0c1"}
+2020/18/03 23:29:28 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element/e8548218-69d5-4db3-ab8e-3e2467cde0c1/click HTTP/1.1" 200 14
+2020/18/03 23:29:28 PM - DEBUG - Finished Request
+2020/18/03 23:29:28 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:29:30 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:30 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:30 PM - DEBUG - Finished Request
+2020/18/03 23:29:30 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:30 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:30 PM - DEBUG - Finished Request
+2020/18/03 23:29:31 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:31 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:31 PM - DEBUG - Finished Request
+2020/18/03 23:29:31 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:31 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:31 PM - DEBUG - Finished Request
+2020/18/03 23:29:32 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:32 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:32 PM - DEBUG - Finished Request
+2020/18/03 23:29:32 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:32 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:32 PM - DEBUG - Finished Request
+2020/18/03 23:29:33 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:33 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:33 PM - DEBUG - Finished Request
+2020/18/03 23:29:33 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:33 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:33 PM - DEBUG - Finished Request
+2020/18/03 23:29:34 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:34 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:34 PM - DEBUG - Finished Request
+2020/18/03 23:29:34 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:34 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:34 PM - DEBUG - Finished Request
+2020/18/03 23:29:35 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:35 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:35 PM - DEBUG - Finished Request
+2020/18/03 23:29:35 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:35 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:35 PM - DEBUG - Finished Request
+2020/18/03 23:29:36 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:36 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:36 PM - DEBUG - Finished Request
+2020/18/03 23:29:36 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:36 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:36 PM - DEBUG - Finished Request
+2020/18/03 23:29:37 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:37 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:37 PM - DEBUG - Finished Request
+2020/18/03 23:29:37 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:37 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:37 PM - DEBUG - Finished Request
+2020/18/03 23:29:38 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:38 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:38 PM - DEBUG - Finished Request
+2020/18/03 23:29:38 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:38 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:38 PM - DEBUG - Finished Request
+2020/18/03 23:29:39 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:39 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:39 PM - DEBUG - Finished Request
+2020/18/03 23:29:39 PM - DEBUG - POST http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:29:39 PM - DEBUG - http://127.0.0.1:62175 "POST /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/element HTTP/1.1" 404 1088
+2020/18/03 23:29:39 PM - DEBUG - Finished Request
+2020/18/03 23:29:40 PM - DEBUG - DELETE http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40/window {}
+2020/18/03 23:29:44 PM - DEBUG - http://127.0.0.1:62175 "DELETE /session/d6d89d2ad3e7aa3e4716c4ca1c678a40/window HTTP/1.1" 200 14
+2020/18/03 23:29:44 PM - DEBUG - Finished Request
+2020/18/03 23:29:44 PM - DEBUG - DELETE http://127.0.0.1:62175/session/d6d89d2ad3e7aa3e4716c4ca1c678a40 {}
+2020/18/03 23:29:44 PM - DEBUG - http://127.0.0.1:62175 "DELETE /session/d6d89d2ad3e7aa3e4716c4ca1c678a40 HTTP/1.1" 200 14
+2020/18/03 23:29:44 PM - DEBUG - Finished Request
+2020/18/03 23:29:47 PM - DEBUG - POST http://127.0.0.1:62302/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:29:47 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62302
+2020/18/03 23:29:51 PM - DEBUG - http://127.0.0.1:62302 "POST /session HTTP/1.1" 200 681
+2020/18/03 23:29:51 PM - DEBUG - Finished Request
+2020/18/03 23:29:51 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:29:53 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/url HTTP/1.1" 200 14
+2020/18/03 23:29:53 PM - DEBUG - Finished Request
+2020/18/03 23:29:53 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:29:55 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:29:55 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 200 88
+2020/18/03 23:29:55 PM - DEBUG - Finished Request
+2020/18/03 23:29:55 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element/53506a9d-5d9f-4db8-891e-1990a32e29e6/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "53506a9d-5d9f-4db8-891e-1990a32e29e6"}
+2020/18/03 23:29:55 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element/53506a9d-5d9f-4db8-891e-1990a32e29e6/value HTTP/1.1" 200 14
+2020/18/03 23:29:55 PM - DEBUG - Finished Request
+2020/18/03 23:29:57 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:29:59 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:29:59 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 200 88
+2020/18/03 23:29:59 PM - DEBUG - Finished Request
+2020/18/03 23:29:59 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element/3029d3d7-6301-47e8-ab37-100ade1403fc/click {"id": "3029d3d7-6301-47e8-ab37-100ade1403fc"}
+2020/18/03 23:29:59 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element/3029d3d7-6301-47e8-ab37-100ade1403fc/click HTTP/1.1" 200 14
+2020/18/03 23:29:59 PM - DEBUG - Finished Request
+2020/18/03 23:29:59 PM - DEBUG - GET http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/window/handles {}
+2020/18/03 23:29:59 PM - DEBUG - http://127.0.0.1:62302 "GET /session/7140fff76d2bc267c15af51387856903/window/handles HTTP/1.1" 200 99
+2020/18/03 23:29:59 PM - DEBUG - Finished Request
+2020/18/03 23:29:59 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/window {"handle": "CDwindow-046CC9C70B7F9AF1EBAA0FFEF5840C78"}
+2020/18/03 23:29:59 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/window HTTP/1.1" 200 14
+2020/18/03 23:29:59 PM - DEBUG - Finished Request
+2020/18/03 23:29:59 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label
+2020/18/03 23:30:01 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:05 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:05 PM - DEBUG - Finished Request
+2020/18/03 23:30:06 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:06 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:06 PM - DEBUG - Finished Request
+2020/18/03 23:30:06 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:06 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:06 PM - DEBUG - Finished Request
+2020/18/03 23:30:07 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:07 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:07 PM - DEBUG - Finished Request
+2020/18/03 23:30:07 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:07 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:07 PM - DEBUG - Finished Request
+2020/18/03 23:30:08 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:08 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:08 PM - DEBUG - Finished Request
+2020/18/03 23:30:08 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:08 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:08 PM - DEBUG - Finished Request
+2020/18/03 23:30:09 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:09 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:09 PM - DEBUG - Finished Request
+2020/18/03 23:30:09 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:09 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:09 PM - DEBUG - Finished Request
+2020/18/03 23:30:10 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:10 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:10 PM - DEBUG - Finished Request
+2020/18/03 23:30:10 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:10 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:10 PM - DEBUG - Finished Request
+2020/18/03 23:30:11 PM - DEBUG - POST http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:30:11 PM - DEBUG - http://127.0.0.1:62302 "POST /session/7140fff76d2bc267c15af51387856903/element HTTP/1.1" 404 1127
+2020/18/03 23:30:11 PM - DEBUG - Finished Request
+2020/18/03 23:30:11 PM - DEBUG - DELETE http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903/window {}
+2020/18/03 23:30:11 PM - DEBUG - http://127.0.0.1:62302 "DELETE /session/7140fff76d2bc267c15af51387856903/window HTTP/1.1" 200 55
+2020/18/03 23:30:11 PM - DEBUG - Finished Request
+2020/18/03 23:30:11 PM - DEBUG - DELETE http://127.0.0.1:62302/session/7140fff76d2bc267c15af51387856903 {}
+2020/18/03 23:30:12 PM - DEBUG - http://127.0.0.1:62302 "DELETE /session/7140fff76d2bc267c15af51387856903 HTTP/1.1" 200 14
+2020/18/03 23:30:12 PM - DEBUG - Finished Request
+2020/18/03 23:32:09 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:32:11 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:11 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 200 88
+2020/18/03 23:32:11 PM - DEBUG - Finished Request
+2020/18/03 23:32:11 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element/b06f2bc9-c29f-401d-b2ad-ad1c369604ab/click {"id": "b06f2bc9-c29f-401d-b2ad-ad1c369604ab"}
+2020/18/03 23:32:13 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element/b06f2bc9-c29f-401d-b2ad-ad1c369604ab/click HTTP/1.1" 200 14
+2020/18/03 23:32:13 PM - DEBUG - Finished Request
+2020/18/03 23:32:13 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:32:15 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:15 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:15 PM - DEBUG - Finished Request
+2020/18/03 23:32:15 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:15 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:15 PM - DEBUG - Finished Request
+2020/18/03 23:32:16 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:16 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:16 PM - DEBUG - Finished Request
+2020/18/03 23:32:16 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:16 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:16 PM - DEBUG - Finished Request
+2020/18/03 23:32:17 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:17 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:17 PM - DEBUG - Finished Request
+2020/18/03 23:32:17 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:17 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:17 PM - DEBUG - Finished Request
+2020/18/03 23:32:18 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:18 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:18 PM - DEBUG - Finished Request
+2020/18/03 23:32:18 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:19 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:19 PM - DEBUG - Finished Request
+2020/18/03 23:32:19 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:19 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:19 PM - DEBUG - Finished Request
+2020/18/03 23:32:20 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:20 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:20 PM - DEBUG - Finished Request
+2020/18/03 23:32:20 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:20 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:20 PM - DEBUG - Finished Request
+2020/18/03 23:32:21 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:21 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:21 PM - DEBUG - Finished Request
+2020/18/03 23:32:21 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:21 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:21 PM - DEBUG - Finished Request
+2020/18/03 23:32:22 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:22 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:22 PM - DEBUG - Finished Request
+2020/18/03 23:32:22 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:22 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:22 PM - DEBUG - Finished Request
+2020/18/03 23:32:23 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:23 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:23 PM - DEBUG - Finished Request
+2020/18/03 23:32:23 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:23 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:23 PM - DEBUG - Finished Request
+2020/18/03 23:32:24 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:24 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:24 PM - DEBUG - Finished Request
+2020/18/03 23:32:24 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:24 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:24 PM - DEBUG - Finished Request
+2020/18/03 23:32:25 PM - DEBUG - POST http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:32:25 PM - DEBUG - http://127.0.0.1:62791 "POST /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/element HTTP/1.1" 404 1088
+2020/18/03 23:32:25 PM - DEBUG - Finished Request
+2020/18/03 23:32:25 PM - DEBUG - DELETE http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94/window {}
+2020/18/03 23:32:29 PM - DEBUG - http://127.0.0.1:62791 "DELETE /session/cab8b2c4c0759a7fb30ef6b39b0b3f94/window HTTP/1.1" 200 14
+2020/18/03 23:32:29 PM - DEBUG - Finished Request
+2020/18/03 23:32:29 PM - DEBUG - DELETE http://127.0.0.1:62791/session/cab8b2c4c0759a7fb30ef6b39b0b3f94 {}
+2020/18/03 23:32:29 PM - DEBUG - http://127.0.0.1:62791 "DELETE /session/cab8b2c4c0759a7fb30ef6b39b0b3f94 HTTP/1.1" 200 14
+2020/18/03 23:32:29 PM - DEBUG - Finished Request
+2020/18/03 23:32:32 PM - DEBUG - POST http://127.0.0.1:62931/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:32:32 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62931
+2020/18/03 23:32:37 PM - DEBUG - http://127.0.0.1:62931 "POST /session HTTP/1.1" 200 681
+2020/18/03 23:32:37 PM - DEBUG - Finished Request
+2020/18/03 23:32:37 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:32:38 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/url HTTP/1.1" 200 14
+2020/18/03 23:32:38 PM - DEBUG - Finished Request
+2020/18/03 23:32:38 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:32:40 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:32:40 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 200 88
+2020/18/03 23:32:40 PM - DEBUG - Finished Request
+2020/18/03 23:32:40 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element/36ab646b-8bc0-4e74-8f7a-879721486555/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "36ab646b-8bc0-4e74-8f7a-879721486555"}
+2020/18/03 23:32:40 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element/36ab646b-8bc0-4e74-8f7a-879721486555/value HTTP/1.1" 200 14
+2020/18/03 23:32:40 PM - DEBUG - Finished Request
+2020/18/03 23:32:42 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:32:44 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:32:44 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 200 88
+2020/18/03 23:32:44 PM - DEBUG - Finished Request
+2020/18/03 23:32:44 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element/464b3915-663f-4a05-8af7-7590c2e297fc/click {"id": "464b3915-663f-4a05-8af7-7590c2e297fc"}
+2020/18/03 23:32:44 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element/464b3915-663f-4a05-8af7-7590c2e297fc/click HTTP/1.1" 200 14
+2020/18/03 23:32:44 PM - DEBUG - Finished Request
+2020/18/03 23:32:44 PM - DEBUG - GET http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/window/handles {}
+2020/18/03 23:32:44 PM - DEBUG - http://127.0.0.1:62931 "GET /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/window/handles HTTP/1.1" 200 99
+2020/18/03 23:32:44 PM - DEBUG - Finished Request
+2020/18/03 23:32:44 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/window {"handle": "CDwindow-EFAA2566B3B559CF593B56785857D961"}
+2020/18/03 23:32:44 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/window HTTP/1.1" 200 14
+2020/18/03 23:32:44 PM - DEBUG - Finished Request
+2020/18/03 23:32:44 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label
+2020/18/03 23:32:46 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:50 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:50 PM - DEBUG - Finished Request
+2020/18/03 23:32:51 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:51 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:51 PM - DEBUG - Finished Request
+2020/18/03 23:32:51 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:51 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:51 PM - DEBUG - Finished Request
+2020/18/03 23:32:52 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:52 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:52 PM - DEBUG - Finished Request
+2020/18/03 23:32:52 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:52 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:52 PM - DEBUG - Finished Request
+2020/18/03 23:32:53 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:53 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:53 PM - DEBUG - Finished Request
+2020/18/03 23:32:53 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:53 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:53 PM - DEBUG - Finished Request
+2020/18/03 23:32:54 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:54 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:54 PM - DEBUG - Finished Request
+2020/18/03 23:32:54 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:54 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:54 PM - DEBUG - Finished Request
+2020/18/03 23:32:55 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:55 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:55 PM - DEBUG - Finished Request
+2020/18/03 23:32:55 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:56 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:56 PM - DEBUG - Finished Request
+2020/18/03 23:32:56 PM - DEBUG - POST http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:32:56 PM - DEBUG - http://127.0.0.1:62931 "POST /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/element HTTP/1.1" 404 1127
+2020/18/03 23:32:56 PM - DEBUG - Finished Request
+2020/18/03 23:32:57 PM - DEBUG - DELETE http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b/window {}
+2020/18/03 23:32:57 PM - DEBUG - http://127.0.0.1:62931 "DELETE /session/b5e8ab33a7cdf69b3d38c51d1f75c09b/window HTTP/1.1" 200 55
+2020/18/03 23:32:57 PM - DEBUG - Finished Request
+2020/18/03 23:32:57 PM - DEBUG - DELETE http://127.0.0.1:62931/session/b5e8ab33a7cdf69b3d38c51d1f75c09b {}
+2020/18/03 23:32:57 PM - DEBUG - http://127.0.0.1:62931 "DELETE /session/b5e8ab33a7cdf69b3d38c51d1f75c09b HTTP/1.1" 200 14
+2020/18/03 23:32:57 PM - DEBUG - Finished Request
+2020/18/03 23:34:57 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:34:59 PM - DEBUG - POST http://127.0.0.1:63361/session/e17f46ebce2e212dd9ec6f4e51f0dc40/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:34:59 PM - DEBUG - http://127.0.0.1:63361 "POST /session/e17f46ebce2e212dd9ec6f4e51f0dc40/element HTTP/1.1" 200 88
+2020/18/03 23:34:59 PM - DEBUG - Finished Request
+2020/18/03 23:34:59 PM - DEBUG - POST http://127.0.0.1:63361/session/e17f46ebce2e212dd9ec6f4e51f0dc40/element/5ea09118-58f2-4598-b028-ef6b34c02f93/click {"id": "5ea09118-58f2-4598-b028-ef6b34c02f93"}
+2020/18/03 23:35:01 PM - DEBUG - http://127.0.0.1:63361 "POST /session/e17f46ebce2e212dd9ec6f4e51f0dc40/element/5ea09118-58f2-4598-b028-ef6b34c02f93/click HTTP/1.1" 200 14
+2020/18/03 23:35:01 PM - DEBUG - Finished Request
+2020/18/03 23:35:01 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label
+2020/18/03 23:35:03 PM - DEBUG - POST http://127.0.0.1:63361/session/e17f46ebce2e212dd9ec6f4e51f0dc40/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:35:03 PM - DEBUG - http://127.0.0.1:63361 "POST /session/e17f46ebce2e212dd9ec6f4e51f0dc40/element HTTP/1.1" 200 88
+2020/18/03 23:35:03 PM - DEBUG - Finished Request
+2020/18/03 23:35:03 PM - DEBUG - GET http://127.0.0.1:63361/session/e17f46ebce2e212dd9ec6f4e51f0dc40/element/810cfaee-5344-4f1d-a804-f061af25bd6c/text {"id": "810cfaee-5344-4f1d-a804-f061af25bd6c"}
+2020/18/03 23:35:03 PM - DEBUG - http://127.0.0.1:63361 "GET /session/e17f46ebce2e212dd9ec6f4e51f0dc40/element/810cfaee-5344-4f1d-a804-f061af25bd6c/text HTTP/1.1" 200 24
+2020/18/03 23:35:03 PM - DEBUG - Finished Request
+2020/18/03 23:35:03 PM - DEBUG - DELETE http://127.0.0.1:63361/session/e17f46ebce2e212dd9ec6f4e51f0dc40/window {}
+2020/18/03 23:35:03 PM - DEBUG - http://127.0.0.1:63361 "DELETE /session/e17f46ebce2e212dd9ec6f4e51f0dc40/window HTTP/1.1" 200 12
+2020/18/03 23:35:03 PM - DEBUG - Finished Request
+2020/18/03 23:35:03 PM - DEBUG - DELETE http://127.0.0.1:63361/session/e17f46ebce2e212dd9ec6f4e51f0dc40 {}
+2020/18/03 23:35:03 PM - DEBUG - http://127.0.0.1:63361 "DELETE /session/e17f46ebce2e212dd9ec6f4e51f0dc40 HTTP/1.1" 200 14
+2020/18/03 23:35:03 PM - DEBUG - Finished Request
+2020/18/03 23:35:05 PM - DEBUG - POST http://127.0.0.1:63478/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:35:05 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63478
+2020/18/03 23:35:10 PM - DEBUG - http://127.0.0.1:63478 "POST /session HTTP/1.1" 200 681
+2020/18/03 23:35:10 PM - DEBUG - Finished Request
+2020/18/03 23:35:10 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:35:11 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/url HTTP/1.1" 200 14
+2020/18/03 23:35:11 PM - DEBUG - Finished Request
+2020/18/03 23:35:11 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:35:13 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:35:13 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/element HTTP/1.1" 200 88
+2020/18/03 23:35:13 PM - DEBUG - Finished Request
+2020/18/03 23:35:13 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/element/20468c4d-e660-4bb0-8a9f-9b99521be990/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "20468c4d-e660-4bb0-8a9f-9b99521be990"}
+2020/18/03 23:35:13 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/element/20468c4d-e660-4bb0-8a9f-9b99521be990/value HTTP/1.1" 200 14
+2020/18/03 23:35:13 PM - DEBUG - Finished Request
+2020/18/03 23:35:15 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:35:17 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:35:17 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/element HTTP/1.1" 200 88
+2020/18/03 23:35:17 PM - DEBUG - Finished Request
+2020/18/03 23:35:17 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/element/cb448453-6a22-48e3-8dd9-b55a880f5a0b/click {"id": "cb448453-6a22-48e3-8dd9-b55a880f5a0b"}
+2020/18/03 23:35:18 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/element/cb448453-6a22-48e3-8dd9-b55a880f5a0b/click HTTP/1.1" 200 14
+2020/18/03 23:35:18 PM - DEBUG - Finished Request
+2020/18/03 23:35:18 PM - DEBUG - GET http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/window/handles {}
+2020/18/03 23:35:18 PM - DEBUG - http://127.0.0.1:63478 "GET /session/747f7566d8b02caebfbcfe83d6c256da/window/handles HTTP/1.1" 200 99
+2020/18/03 23:35:18 PM - DEBUG - Finished Request
+2020/18/03 23:35:18 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/window {"handle": "CDwindow-E64F79C179DA4A96CE6A72A986268A3E"}
+2020/18/03 23:35:18 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/window HTTP/1.1" 200 14
+2020/18/03 23:35:18 PM - DEBUG - Finished Request
+2020/18/03 23:35:18 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[2]/div[2]/div[1]/div[1]/h1/a
+2020/18/03 23:35:20 PM - DEBUG - POST http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/element {"using": "xpath", "value": "/html/body/div[2]/div[2]/div[1]/div[1]/h1/a"}
+2020/18/03 23:35:24 PM - DEBUG - http://127.0.0.1:63478 "POST /session/747f7566d8b02caebfbcfe83d6c256da/element HTTP/1.1" 200 88
+2020/18/03 23:35:24 PM - DEBUG - Finished Request
+2020/18/03 23:35:24 PM - DEBUG - GET http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/element/5d61d792-6e76-4c9e-b3ac-3f858bd7d55c/text {"id": "5d61d792-6e76-4c9e-b3ac-3f858bd7d55c"}
+2020/18/03 23:35:24 PM - DEBUG - http://127.0.0.1:63478 "GET /session/747f7566d8b02caebfbcfe83d6c256da/element/5d61d792-6e76-4c9e-b3ac-3f858bd7d55c/text HTTP/1.1" 200 18
+2020/18/03 23:35:24 PM - DEBUG - Finished Request
+2020/18/03 23:35:24 PM - DEBUG - DELETE http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da/window {}
+2020/18/03 23:35:24 PM - DEBUG - http://127.0.0.1:63478 "DELETE /session/747f7566d8b02caebfbcfe83d6c256da/window HTTP/1.1" 200 55
+2020/18/03 23:35:24 PM - DEBUG - Finished Request
+2020/18/03 23:35:24 PM - DEBUG - DELETE http://127.0.0.1:63478/session/747f7566d8b02caebfbcfe83d6c256da {}
+2020/18/03 23:35:24 PM - DEBUG - http://127.0.0.1:63478 "DELETE /session/747f7566d8b02caebfbcfe83d6c256da HTTP/1.1" 200 14
+2020/18/03 23:35:24 PM - DEBUG - Finished Request
+2020/18/03 23:36:48 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[10]/ul/li[9]/a
+2020/18/03 23:36:50 PM - DEBUG - POST http://127.0.0.1:63732/session/0dc5063e5b123dfedfc836278e8fe99a/element {"using": "xpath", "value": "/html/body/div[10]/ul/li[9]/a"}
+2020/18/03 23:36:50 PM - DEBUG - http://127.0.0.1:63732 "POST /session/0dc5063e5b123dfedfc836278e8fe99a/element HTTP/1.1" 200 88
+2020/18/03 23:36:50 PM - DEBUG - Finished Request
+2020/18/03 23:36:50 PM - DEBUG - POST http://127.0.0.1:63732/session/0dc5063e5b123dfedfc836278e8fe99a/element/8442f81a-ee73-4bd7-b40d-2a9745597bb4/click {"id": "8442f81a-ee73-4bd7-b40d-2a9745597bb4"}
+2020/18/03 23:36:51 PM - DEBUG - http://127.0.0.1:63732 "POST /session/0dc5063e5b123dfedfc836278e8fe99a/element/8442f81a-ee73-4bd7-b40d-2a9745597bb4/click HTTP/1.1" 200 14
+2020/18/03 23:36:51 PM - DEBUG - Finished Request
+2020/18/03 23:36:51 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label
+2020/18/03 23:36:53 PM - DEBUG - POST http://127.0.0.1:63732/session/0dc5063e5b123dfedfc836278e8fe99a/element {"using": "xpath", "value": "//*[@id='root']/div/div/div/div[1]/div[2]/div[1]/div[2]/div[1]/label"}
+2020/18/03 23:36:53 PM - DEBUG - http://127.0.0.1:63732 "POST /session/0dc5063e5b123dfedfc836278e8fe99a/element HTTP/1.1" 200 88
+2020/18/03 23:36:53 PM - DEBUG - Finished Request
+2020/18/03 23:36:53 PM - DEBUG - GET http://127.0.0.1:63732/session/0dc5063e5b123dfedfc836278e8fe99a/element/0b3e4198-9d09-4496-a1f0-3b67bb36458a/text {"id": "0b3e4198-9d09-4496-a1f0-3b67bb36458a"}
+2020/18/03 23:36:53 PM - DEBUG - http://127.0.0.1:63732 "GET /session/0dc5063e5b123dfedfc836278e8fe99a/element/0b3e4198-9d09-4496-a1f0-3b67bb36458a/text HTTP/1.1" 200 24
+2020/18/03 23:36:53 PM - DEBUG - Finished Request
+2020/18/03 23:36:53 PM - DEBUG - DELETE http://127.0.0.1:63732/session/0dc5063e5b123dfedfc836278e8fe99a/window {}
+2020/18/03 23:36:57 PM - DEBUG - http://127.0.0.1:63732 "DELETE /session/0dc5063e5b123dfedfc836278e8fe99a/window HTTP/1.1" 200 14
+2020/18/03 23:36:57 PM - DEBUG - Finished Request
+2020/18/03 23:36:57 PM - DEBUG - DELETE http://127.0.0.1:63732/session/0dc5063e5b123dfedfc836278e8fe99a {}
+2020/18/03 23:36:57 PM - DEBUG - http://127.0.0.1:63732 "DELETE /session/0dc5063e5b123dfedfc836278e8fe99a HTTP/1.1" 200 14
+2020/18/03 23:36:57 PM - DEBUG - Finished Request
+2020/18/03 23:36:59 PM - DEBUG - POST http://127.0.0.1:63845/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020/18/03 23:36:59 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63845
+2020/18/03 23:37:04 PM - DEBUG - http://127.0.0.1:63845 "POST /session HTTP/1.1" 200 680
+2020/18/03 23:37:04 PM - DEBUG - Finished Request
+2020/18/03 23:37:04 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/url {"url": "https://www.ctrip.com"}
+2020/18/03 23:37:05 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/url HTTP/1.1" 200 14
+2020/18/03 23:37:05 PM - DEBUG - Finished Request
+2020/18/03 23:37:05 PM - INFO - 正在定位元素信息：定位方式->id,value值->_allSearchKeyword
+2020/18/03 23:37:07 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/element {"using": "css selector", "value": "[id=\"_allSearchKeyword\"]"}
+2020/18/03 23:37:07 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/element HTTP/1.1" 200 88
+2020/18/03 23:37:07 PM - DEBUG - Finished Request
+2020/18/03 23:37:07 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/element/d3c55f77-b43f-4a9d-a7e2-d5ca1b1ddb5d/value {"text": "\u5317\u4eac", "value": ["\u5317", "\u4eac"], "id": "d3c55f77-b43f-4a9d-a7e2-d5ca1b1ddb5d"}
+2020/18/03 23:37:08 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/element/d3c55f77-b43f-4a9d-a7e2-d5ca1b1ddb5d/value HTTP/1.1" 200 14
+2020/18/03 23:37:08 PM - DEBUG - Finished Request
+2020/18/03 23:37:10 PM - INFO - 正在定位元素信息：定位方式->id,value值->search_button_global
+2020/18/03 23:37:12 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/element {"using": "css selector", "value": "[id=\"search_button_global\"]"}
+2020/18/03 23:37:12 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/element HTTP/1.1" 200 88
+2020/18/03 23:37:12 PM - DEBUG - Finished Request
+2020/18/03 23:37:12 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/element/8d566f8e-e5d1-4fef-acef-8804dfac1d05/click {"id": "8d566f8e-e5d1-4fef-acef-8804dfac1d05"}
+2020/18/03 23:37:12 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/element/8d566f8e-e5d1-4fef-acef-8804dfac1d05/click HTTP/1.1" 200 14
+2020/18/03 23:37:12 PM - DEBUG - Finished Request
+2020/18/03 23:37:12 PM - DEBUG - GET http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/window/handles {}
+2020/18/03 23:37:12 PM - DEBUG - http://127.0.0.1:63845 "GET /session/cca5414b70038c5ffeef74b588b77168/window/handles HTTP/1.1" 200 99
+2020/18/03 23:37:12 PM - DEBUG - Finished Request
+2020/18/03 23:37:12 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/window {"handle": "CDwindow-3A6D1710CFA6E80A9303BC631C0B9D49"}
+2020/18/03 23:37:12 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/window HTTP/1.1" 200 14
+2020/18/03 23:37:12 PM - DEBUG - Finished Request
+2020/18/03 23:37:12 PM - INFO - 正在定位元素信息：定位方式->xpath,value值->/html/body/div[2]/div[2]/div[1]/div[1]/h1/a
+2020/18/03 23:37:14 PM - DEBUG - POST http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/element {"using": "xpath", "value": "/html/body/div[2]/div[2]/div[1]/div[1]/h1/a"}
+2020/18/03 23:37:18 PM - DEBUG - http://127.0.0.1:63845 "POST /session/cca5414b70038c5ffeef74b588b77168/element HTTP/1.1" 200 88
+2020/18/03 23:37:18 PM - DEBUG - Finished Request
+2020/18/03 23:37:18 PM - DEBUG - GET http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/element/d6c5bab2-8db8-410e-acf3-a29a200fe465/text {"id": "d6c5bab2-8db8-410e-acf3-a29a200fe465"}
+2020/18/03 23:37:18 PM - DEBUG - http://127.0.0.1:63845 "GET /session/cca5414b70038c5ffeef74b588b77168/element/d6c5bab2-8db8-410e-acf3-a29a200fe465/text HTTP/1.1" 200 18
+2020/18/03 23:37:18 PM - DEBUG - Finished Request
+2020/18/03 23:37:18 PM - DEBUG - DELETE http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168/window {}
+2020/18/03 23:37:18 PM - DEBUG - http://127.0.0.1:63845 "DELETE /session/cca5414b70038c5ffeef74b588b77168/window HTTP/1.1" 200 55
+2020/18/03 23:37:18 PM - DEBUG - Finished Request
+2020/18/03 23:37:18 PM - DEBUG - DELETE http://127.0.0.1:63845/session/cca5414b70038c5ffeef74b588b77168 {}
+2020/18/03 23:37:18 PM - DEBUG - http://127.0.0.1:63845 "DELETE /session/cca5414b70038c5ffeef74b588b77168 HTTP/1.1" 200 14
+2020/18/03 23:37:18 PM - DEBUG - Finished Request
