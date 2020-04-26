@@ -1,13 +1,21 @@
-#coding:utf-8
+# coding:utf-8
 import xlrd
 import xlwt
-#封装操作excel的方法
-class Excel_option():
-    def read_excel(filename,index):
-        testDataPath = filename
-        xls = xlrd.open_workbook(testDataPath)
+
+
+# 封装操作excel的方法
+class Excel_option:
+    def read_excel(self,file_name, index):
+        """
+
+        @param file_name: 文件名
+        @param index: 索引
+        @return: 字典
+        """
+        test_data_path = file_name
+        xls = xlrd.open_workbook(test_data_path)
         sheet = xls.sheet_by_index(index)
-        data_dic = {}
+        data_dir = {}
         for i in range(sheet.ncols):
             data = []
             for j in range(sheet.nrows):
@@ -15,7 +23,5 @@ class Excel_option():
                     continue
                 else:
                     data.append(sheet.row_values(j)[i])
-            data_dic[i] = data
-            print(data_dic)
-        return data_dic
-
+            data_dir[i] = data
+        return data_dir
